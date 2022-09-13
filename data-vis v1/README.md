@@ -1,4 +1,4 @@
-### *SUBMISSION UPLOAD AUTOMATICALLY CLOSES AT THE END OF THE SESSION*
+This was a project that I created in my Year 1 of CS course. These were thee task that was needed to be done
 
 ## Data visualisation
 
@@ -14,9 +14,7 @@ and methods defined within each visualisation.
 
 Lines you need to complete in this case study are marked **???**.
 
-#### Tech diversity: Gender [2 marks]
-
-![tech-diversity-gender](https://www.doc.gold.ac.uk/~jfort010/ip/case-studies/data-vis/figures/tech-diversity-gender.png)
+#### Tech diversity: Gender 
 
 Complete the visualisation defined in `tech-diversity-gender.js` to
 create a stacked bar chart by adding the proportion of men employed at
@@ -45,9 +43,7 @@ each company.
    - The ratio of female:male staff at Indiegogo is 50:50. Make sure
      that this is correctly visualised on the plot.
 
-#### Pay gap 1997–2017 [2 marks]
-
-![paygap1997-2017](https://www.doc.gold.ac.uk/~jfort010/ip/case-studies/data-vis/figures/pay-gap-1997-2017.png)
+#### Pay gap 1997–2017 
 
 Complete the visualisation defined in `pay-gap-1997-2017.js` to create
 a line graph representing the pay gap between female and male
@@ -67,9 +63,9 @@ employees over time.
    pay gap over time. You will need to use both `mapYearToWidth()` and
    `mapPayGapToHeight()` methods.
 
-#### Climate change [2 marks]
+#### Climate change 
 
-![climateChange](https://www.doc.gold.ac.uk/~jfort010/ip/case-studies/data-vis/figures/climate-change.png)
+
 
 Complete the visualisation defined in `climate-change.js` to create a
 line graph with gradient fill background representing the change in
@@ -87,9 +83,7 @@ the Earth’s surface temperature.
    - Hint: Look at the `mapYearToWidth()` method, the `layout` object,
      and the `segmentWidth` variable.
 
-#### Tech diversity: Race [2 marks]
-
-![tech-diversity-race](https://www.doc.gold.ac.uk/~jfort010/ip/case-studies/data-vis/figures/tech-diversity-race.png)
+#### Tech diversity: Race 
 
 Complete the visualisation defined in `tech-diversity-race.js` to
 create a pie chart to represent the racial diversity of prominent tech
@@ -111,9 +105,7 @@ companies.
    data is visualised on the canvas and the correct title is
    generated.
 
-#### Pay gap by job 2017 [2 marks]
-
-![paygapByJob2017](https://www.doc.gold.ac.uk/~jfort010/ip/case-studies/data-vis/figures/pay-gap-by-job.png)
+#### Pay gap by job 2017 
 
 Complete the visualisation defined in `pay-gap-by-job-2017.js` to
 create a scatter plot representing the difference in pay for men and
